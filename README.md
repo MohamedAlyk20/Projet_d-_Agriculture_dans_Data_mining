@@ -72,13 +72,23 @@ Ce projet a pour objectif d’analyser et de prédire les **rendements agricoles
   - MAE : ~0.5791  
   - Moins performante par rapport aux modèles d’ensemble.  
 
-### Conclusion intermédiaire
 ➡️ Le modèle **Random Forest** est celui qui capture le mieux la variabilité des données et offre les prédictions les plus fiables.  
+
+## ✅ Conclusion
+
+Ce projet a permis de démontrer la pertinence des méthodes de **machine learning** pour la prédiction des rendements agricoles. L’évaluation comparative a mis en évidence que le modèle **Random Forest** surpasse les autres approches, avec un coefficient de détermination (**R² ≈ 0.99**) indiquant une excellente capacité de généralisation. Cette performance montre que l’utilisation de variables telles que la fertilisation, les nutriments et la température constitue une base solide pour la modélisation des rendements.
+
+En revanche, la régression linéaire s’est révélée moins adaptée, confirmant que la relation entre les variables agronomiques et le rendement est **non linéaire et complexe**.
 
 ---
 
-## 💻 Installation et utilisation
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/ton-compte/Projet_Agriculture.git
+## 🚀 Perspectives
+
+Pour aller plus loin, plusieurs pistes d’amélioration peuvent être envisagées :
+
+1. **Enrichissement des données** : inclure d’autres variables (humidité du sol, pluviométrie, type de sol, pratiques culturales).
+2. **Extension géographique** : tester le modèle sur des données provenant de différentes régions/pays pour valider sa robustesse.
+3. **Méthodes avancées** : explorer des approches de **Deep Learning** (réseaux de neurones, LSTM pour séries temporelles) afin de capturer la dynamique saisonnière.
+4. **Application pratique** : développer une **interface web ou mobile** permettant aux agriculteurs de prédire le rendement en fonction de leurs intrants.
+5. **Intégration avec IoT** : connecter le modèle à des capteurs agricoles (température, humidité, fertilité du sol) pour des prédictions en temps réel.
 
