@@ -19,7 +19,8 @@ Ce projet a été realisé par :
 1. [Introduction](#introduction)
 2. [Objectifs du projet](#objectifs-du-projet)
 3. [Données utilisées](#données-utilisées)
-4. [Méthodologie](#méthodologie)
+4. [Méthodologie](#méthodologie)[Projet_Agriculture.ipynb](https://github.com/user-attachments/files/22069442/Projet_Agriculture.ipynb)
+
 5. [Résultats](#résultats)
 6. [Installation et utilisation](#installation-et-utilisation)
 7. [Structure du projet](#structure-du-projet)
