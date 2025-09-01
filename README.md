@@ -2,6 +2,7 @@
 Ce projet vise la prévision du rendement des cultures à l'aide du sol et de la météo à partir d’un jeu de données intégrant des variables clés telles que l’apport en engrais, la température et la composition du sol (azote, phosphore et potassium)
 
 Ce projet a été realisé par :
+
 1- Mohamed Aly KOUYATE; 
 
 2- André KPOMY; 
