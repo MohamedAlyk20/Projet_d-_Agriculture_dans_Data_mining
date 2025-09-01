@@ -24,7 +24,6 @@ Ce projet a été realisé par :
 6. [Installation et utilisation](#installation-et-utilisation)
 7. [Structure du projet](#structure-du-projet)
 8. [Perspectives](#perspectives)
-9. [Auteur](#auteur)
 
 ---
 
