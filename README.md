@@ -108,4 +108,5 @@ Pour aller plus loin, plusieurs pistes d’amélioration peuvent être envisagé
 5. **Intégration avec IoT** : connecter le modèle à des capteurs agricoles (température, humidité, fertilité du sol) pour des prédictions en temps réel.
 
 [dataset.csv](https://github.com/user-attachments/files/22069432/dataset.csv)
+
 [Projet_Agriculture.ipynb](https://github.com/user-attachments/files/22069456/Projet_Agriculture.ipynb)
