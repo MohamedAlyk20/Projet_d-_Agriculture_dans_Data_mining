@@ -3,10 +3,15 @@ Ce projet vise la prévision du rendement des cultures à l'aide du sol et de la
 
 Ce projet a été realisé par :
 1- Mohamed Aly KOUYATE; 
+
 2- André KPOMY; 
+
 3- Amé Ethiam Godwin Gozo; 
+
 4- Bréma SIDIBE; 
+
 5- Oumar COULIBALY et 
+
 6- Mamadou DIABY 
 
 # 🌱 Projet Agriculture
