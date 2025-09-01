@@ -51,7 +51,7 @@ Ce projet a pour objectif d’analyser et de prédire les **rendements agricoles
 
 ---
 
-## 🛠Méthodologie
+## Méthodologie
 1. Prétraitement des données : nettoyage, gestion des valeurs manquantes, normalisation.  
 2. Séparation en **train/test**.  
 3. Entraînement des modèles suivants :  
