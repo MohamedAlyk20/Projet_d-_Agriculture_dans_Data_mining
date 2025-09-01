@@ -69,7 +69,9 @@ Ce projet a pour objectif d’analyser et de prédire les **rendements agricoles
   - R² : 0.9791  
 
 - **Régression Linéaire**  
-  - MAE : ~0.5791  
+  - MSE: 0.5162
+  - RMSE: 0.7185
+  - R²: 0.8626
   - Moins performante par rapport aux modèles d’ensemble.  
 
 ➡ Le modèle **Random Forest** est celui qui capture le mieux la variabilité des données et offre les prédictions les plus fiables.  
