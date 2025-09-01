@@ -7,7 +7,7 @@ Ce projet a été realisé par :
 
 2- André KPOMY; 
 
-3- Amé Ethiam Godwin Gozo; 
+3- Amé Ethiam Godwin GOZO; 
 
 4- Bréma SIDIBE; 
 
