@@ -1,6 +1,14 @@
 # Projet_d-_Agriculture_dans_Data_mining
 Ce projet vise la prévision du rendement des cultures à l'aide du sol et de la météo à partir d’un jeu de données intégrant des variables clés telles que l’apport en engrais, la température et la composition du sol (azote, phosphore et potassium)
 
+Ce projet a été realisé par :
+1- Mohamed Aly KOUYATE; 
+2- André KPOMY; 
+3- Amé Ethiam Godwin Gozo; 
+4- Bréma SIDIBE; 
+5- Oumar COULIBALY et 
+6- Mamadou DIABY 
+
 # 🌱 Projet Agriculture
 
 ##  Table des matières
