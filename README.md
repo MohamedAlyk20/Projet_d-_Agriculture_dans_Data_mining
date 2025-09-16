@@ -4,7 +4,7 @@ Ce projet vise la prévision du rendement des cultures à l'aide du sol et de la
 Ce projet a été realisé par :
 
 
-1- Mohamed Aly KOUYATE; 
+1- Mohamed Aly KOUYATE (chef du projet); 
 
 2- André KPOMY; 
 
